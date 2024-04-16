@@ -15,7 +15,7 @@
     "jwt-decode": "^2.2.0",
     "libphonenumber-js": "^1.0.24",
     "prop-types": "^15.6.1",
-    "react": "^16.3.2",
+    "react": "^16.14.0",
     "react-native": "^0.55.3",
     "react-native-camera-roll-picker": "^1.2.3",
     "react-native-elements": "^0.19.0",
